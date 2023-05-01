@@ -297,7 +297,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
               MaterialPageRoute(builder: (context) =>  ViewContactUserListScreen()),
             );
           },
-          title: 'View Contact',
+          title: 'View Contacts',
           image: 'assets/images/icons/star.png',
           color: blackColor,
         ),
